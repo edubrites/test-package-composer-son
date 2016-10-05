@@ -1,5 +1,5 @@
 {
-    "name": "edubritesson/course-composer",
+    "name": "edubrites/curso-composerson",
     "description": "Package Test - Composer course in SON",
     "require": {
         "php": ">=5.4",
@@ -9,10 +9,10 @@
     "type":"library",
     "version": "1.0",
     "license": "MIT",
-    "author":[
+    "authors":[
         {
             "name":"Eduardo Brites",
-            "email":"<egbrites@gmail.com>"
+            "email":"egbrites@gmail.com"
         }
     ],
     "minimum-stability": "dev",
