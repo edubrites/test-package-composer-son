@@ -19,7 +19,7 @@
     "autoload":{
         "psr-4":
             {
-                "Eduardo\\son":"src/Eduardo/son"
+                "Eduardo\\son\\":"src/Eduardo/son"
             }
         
     }
