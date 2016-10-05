@@ -1,0 +1,28 @@
+{
+    "name": "edubritesson/course-composer",
+    "description": "Package Test - Composer course in SON",
+    "require": {
+        "php": ">=5.4",
+        "silex/silex": "1.3.*@stable",
+        "doctrine/dbal": "2.5.*@stable"
+    },
+    "type":"library",
+    "version": "1.0",
+    "license": "MIT",
+    "author":[
+        {
+            "name":"Eduardo Brites",
+            "email":"<egbrites@gmail.com>"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":
+            {
+                "Eduardo\\son":"src/Eduardo/son"
+            }
+        
+    }
+    
+    
+}
